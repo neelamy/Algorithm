@@ -31,7 +31,6 @@ class Solution:
 
 				if A[i] > 0 : return i + 1 # 1 is added becuase indexes start from 0
 
-
 			
 			# last  +ve number will be n + 1 so missing number will be (n + 1) + 1
 			return n + 2
